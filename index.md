@@ -20,5 +20,6 @@ Implemented geolocation to automatically show weather information based on the u
 ![Project 3 Screenshot](/images/bladeheart2.png)
 ![Project 3 Screenshot](/images/bladeheart3.png)
 ![Project 3 Screenshot](/images/bladeheart4.png)
+
 Immersive text-based RPG game that offers an elevated gaming experience with narrative engagement and an elemental combat system
 
