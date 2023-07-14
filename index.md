@@ -16,6 +16,9 @@ Feature-rich weather application using OpenWeatherMap API for real-time weather 
 Implemented geolocation to automatically show weather information based on the user’s location, with added functionality for manual city search and temperature unit conversion
 
 ## Text-based RPG Game
-![Project 3 Screenshot](/images/project3.png)
-Description of project 3 goes here.
+![Project 3 Screenshot](/images/bladeheart1.png)
+![Project 3 Screenshot](/images/bladeheart2.png)
+![Project 3 Screenshot](/images/bladeheart3.png)
+![Project 3 Screenshot](/images/bladeheart4.png)
+Immersive text-based RPG game that offers an elevated gaming experience with narrative engagement and an elemental combat system
 
